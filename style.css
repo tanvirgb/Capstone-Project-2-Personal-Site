@@ -1,0 +1,62 @@
+.background-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.6;
+    transition: opacity 0.5s ease;
+}
+
+.gradient-background_00 {
+    background: linear-gradient(180deg, #86B6F6, #B4D4FF, #EEF5FF);
+}
+
+.header-background {
+    background-color: #222831;
+}
+
+.nav-link {
+    color: #00ADB5;
+}
+
+.nav-link:hover {
+    color: #EEEEEE;
+}
+
+.box {
+    transition: box-shadow .4s;
+}
+
+.box:hover {
+    box-shadow: 15px 15px 15px rgba(33, 33, 33, .4);
+}
+
+.hero-heading-paragraph {
+    color: #393E46;
+}
+
+.hero-heading {
+    color: #393E46;
+}
+
+.hero-paragraph {
+    color: #1657cf;
+}
+
+.jumbotrons-background {
+    background-color: #EEEEEE;
+}
+
+.gradient-background_01 {
+    background: linear-gradient(180deg, #EEF5FF, #B4D4FF, #86B6F6);
+}
+
+.footer-background {
+    background-color: #393E46;
+}
+
+.jumbotron-background {
+    background-color: #00ADB5;
+}
